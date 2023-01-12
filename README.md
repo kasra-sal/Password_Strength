@@ -4,7 +4,10 @@ This python code uses machine learning and deep learning to predict and classify
 2. acceptable
 3. strong
 
-The dataset has been uploaded to the same branch of git as the code for ease of use, however it doesn't belong to me. 
+
+Due to data imbalance, downsampling approach has been used.
+
+The dataset has been uploaded to the same branch of git as the code for ease of use, however it doesn't belong to me. All rights are reserved by the original author.
 Please refer to the following link to access the dataset 
 Dataset link : https://www.kaggle.com/datasets/bhavikbb/password-strength-classifier-dataset
 
